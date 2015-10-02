@@ -3,7 +3,7 @@
     package="com.dragon.testandroid"
     android:versionCode="1"
     android:versionName="1.0" >
-
+<!--test develop commit-->
     <uses-sdk
         android:minSdkVersion="16"
         android:targetSdkVersion="19" />
